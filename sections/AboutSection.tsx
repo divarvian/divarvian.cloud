@@ -207,6 +207,17 @@ const educationInfo = [
     list: [
       "Studied Object-Oriented Programming (OOP)",
       "Studied Functional Programming (FP)",
+      "Others",
+    ],
+  },
+  {
+    id: 3,
+    title: "MikroTik Certified Network Associate",
+    subTitle: "Certificate from MikroTik | Valid until 2025",
+    list: [
+      "Network Address Translation (NAT)",
+      "Quality of Service (QoS)",
+      "Others",
     ],
   },
 ];
