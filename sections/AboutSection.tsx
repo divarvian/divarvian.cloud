@@ -169,11 +169,7 @@ const AboutSection: React.FC = () => {
             </div>
 
             <p className="col-start-1 col-end-3 row-start-4 row-end-6 lg:row-start-1 lg:row-end-2 lg:col-start-3 lg:col-end-6 lg:ml-8 lg:mt-auto about-intro">
-              With 3 years of comprehensive experience in web application
-              development, I have honed my skills in both frontend and backend
-              development. In addition to my hands-on experience in web
-              development, my education has also played a critical role in
-              providing a strong foundation for my career.
+              With my self-taught experience in several languages such as C++, Java, and PHP, I have honed my skills in mobile application development. Besides direct experience in mobile app development, my education also plays a crucial role in providing a strong foundation for my career.
             </p>
 
             <div
