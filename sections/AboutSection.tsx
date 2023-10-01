@@ -205,9 +205,8 @@ const educationInfo = [
     title: "Learn JavaScript Programming Basics",
     subTitle: "Certificate from dicoding.com | Valid until 2026",
     list: [
-      "Studied Object-Oriented Programming (OOP)",
-      "Studied Functional Programming (FP)",
-      "Others",
+      "Studied Object-Oriented Programming (OOP).",
+      "Studied Functional Programming (FP), and others.",
     ],
   },
   {
@@ -215,9 +214,8 @@ const educationInfo = [
     title: "MikroTik Certified Network Associate",
     subTitle: "Certificate from MikroTik | Valid until 2025",
     list: [
-      "Network Address Translation (NAT)",
-      "Quality of Service (QoS)",
-      "Others",
+      "Network Address Translation (NAT).",
+      "Quality of Service (QoS), and others.",
     ],
   },
 ];
